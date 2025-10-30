@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": 2,
+    "nome": "Feijão 1Kg",
+    "preco": 6.0,
+    "estoque": 7
+  },
+  {
+    "codigo": 3,
+    "nome": "Arroz 1Kg",
+    "preco": 4.0,
+    "estoque": 8
+  }
+]
